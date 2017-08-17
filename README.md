@@ -1,3 +1,3 @@
 # hello-world
 1st repo
-Hello starteda GitHub account.
+Hello started a GitHub account.
